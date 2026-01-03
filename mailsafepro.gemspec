@@ -22,9 +22,9 @@ Gem::Specification.new do |s|
   s.authors     = ["MailSafePro"]
   s.email       = ["support@mailsafepro.com"]
   s.homepage    = "https://github.com/mailsafepro/mailsafepro-ruby"
-  s.summary     = "MailSafePro Email Validation API Client"
-  s.description = "API robusta y segura para validación y verificación de correos electrónicos. Soporta verificación individual y en lote, detección de brechas, y autenticación JWT. Cumple con GDPR y dispone de planes de pago flexibles.  **🔗 Enlaces importantes:** - [Estado del sistema](https://mailsafepro.betteruptime.com) - [Documentación completa](https://email-validation-api-jlra.onrender.com/redoc)  **📧 Contacto:** mailsafepro1@gmail.com"
-  s.license     = "Unlicense"
+  s.summary     = "Ruby SDK for MailSafePro Email Validation API"
+  s.description = "Ruby SDK for MailSafePro Email Validation API. Robust and secure email validation and verification with batch processing, breach detection, and JWT authentication. GDPR compliant."
+  s.license     = "MIT"
   s.required_ruby_version = ">= 2.7"
   s.metadata    = {}
 
