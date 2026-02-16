@@ -8,7 +8,7 @@ Cumple con GDPR y dispone de planes de pago flexibles.
 
 **🔗 Enlaces importantes:**
 - [Estado del sistema](https://mailsafepro.betteruptime.com)
-- [Documentación completa](https://mailsafepro-api.fly.dev/redoc)
+- [Documentación completa](https://api.mailsafepro.es/redoc)
 
 **📧 Contacto:** mailsafepro1@gmail.com
 
